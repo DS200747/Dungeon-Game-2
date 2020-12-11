@@ -277,7 +277,6 @@ public class GameWIPHW {
         different methods, experience levels, graphics/buttons. MAKE IT SO MAX HEALTH
         IS ACTUALLY A THING AND USER CAN'T GO OVER.
          */
-        boolean Running = true;
         
         System.out.println("\u001b[36;1m \t* Welcome adventurer! * \u001b[0m");
         GetPlayerName();
